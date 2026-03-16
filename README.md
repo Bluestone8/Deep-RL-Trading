@@ -132,7 +132,7 @@ This repository contains multiple deep RL implementations exploring different ar
 
 | Model       | Architecture | Returns | Key Features                          |
 | ----------- | ------------ | ------- | ------------------------------------- |
-| CNN-DQN v1  | Basic CNN    | 34.52%  | Daily trading, dropout regularization |
+| CNN-DQN v1  | Basic CNN    | 7.52%  | Daily trading, dropout regularization |
 | CNN-DQN v2  | Enhanced CNN | 5.39%   | Double DQN, Huber loss, soft updates  |
 | DDPG        | Actor-Critic | 3.5%    | Continuous actions, risk penalties    |
 | Transformer | Attention    | Mixed   | Best on synthetic data                |
